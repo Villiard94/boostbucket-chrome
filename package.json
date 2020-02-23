@@ -1,0 +1,23 @@
+{
+  "name": "boostbucket-chrome",
+  "version": "1.0.0",
+  "description": "Chrome extension for a boosted experience with Bitbucket",
+  "scripts": {
+    "compile": "tsc src/test.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Villiard94/boostbucket-chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Villiard94/boostbucket-chrome/issues"
+  },
+  "homepage": "https://github.com/Villiard94/boostbucket-chrome#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "typescript": "^3.8.2"
+  }
+}
